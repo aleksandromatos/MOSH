@@ -1,0 +1,2 @@
+# MOSH
+Shutdown por SNMP 
